@@ -1,4 +1,5 @@
-#Tuple is same as list, but it is immutable.
+#Tuple is same as list, but it is immutable
+# Tuples could be used for locked rows and cols in a table, primary key and secondary keep type scenarios
 my_tuple = (1, 2, 3, 4, 5)
 print(my_tuple[1])  #print 2nd item in the tuple
 print(my_tuple)  #prints the entire tuple
