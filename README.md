@@ -1,3 +1,9 @@
 # Python_Repo
 
-Where are the other lines? 
+Basics 
+
+Functions 
+
+Methods()
+
+AI/ML 
