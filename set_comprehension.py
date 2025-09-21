@@ -17,6 +17,7 @@ print(duplicates)
 
 print("---------Test Using comprehensions shortcuts -----------")
 
+
 duplicates = list(set([items for items in some_list if some_list.count(items) > 1]))
 print (duplicates) 
 
